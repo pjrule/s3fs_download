@@ -1,9 +1,9 @@
-*.egg-info
+*.egg-info/
 *.save
-env
+env/
 *~
 #*#
-*/__pycache__
+*/__pycache__/
 *.pyc
 build
-.cache
+.cache/
